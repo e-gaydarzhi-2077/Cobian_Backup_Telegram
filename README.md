@@ -1,4 +1,4 @@
-# CobianBackupTelegram
+# Cobian Backup Telegram
 
 This is a console program for Windows, that is used to send notifications to telegrams about unsuccessful backups.
 The code is written entirely in c# .Net Framework 4.6
