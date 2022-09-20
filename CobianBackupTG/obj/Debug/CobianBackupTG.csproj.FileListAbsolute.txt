@@ -1,0 +1,7 @@
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\bin\Debug\CobianBackupTG.exe.config
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\bin\Debug\CobianBackupTG.exe
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\bin\Debug\CobianBackupTG.pdb
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\obj\Debug\CobianBackupTG.csproj.CoreCompileInputs.cache
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\obj\Debug\CobianBackupTG.exe
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\obj\Debug\CobianBackupTG.pdb
+D:\Work\VisualStudio\CobianBackupTG\CobianBackupTG\CobianBackupTG\obj\Debug\CobianBackupTG.csproj.AssemblyReference.cache
