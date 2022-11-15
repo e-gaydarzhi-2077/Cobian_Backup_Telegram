@@ -4,7 +4,7 @@ This is a console program for Windows, that is used to send notifications to tel
 The code is written entirely in c# .Net Framework 4.6
 The program does not affect the Cobian Backup service, does not change the files of the current (active) log.
 
-[Release For Windows](https://github.com/e-gaydarzhi-2077/Cobian_Backup_Telegram/releases/tag/v1.0)
+[Release For Windows](https://github.com/e-gaydarzhi-2077/Cobian_Backup_Telegram/releases)
 
 Example:
 ![image](https://user-images.githubusercontent.com/107859162/190390771-3025e227-589b-4b5d-853a-3af6be55adce.png)
